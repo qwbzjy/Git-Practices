@@ -5,6 +5,10 @@ a
 b
 c
 4
+<<<<<<< HEAD
 first
 second
 three
+=======
+first
+>>>>>>> parent of a5f7d8c (second)
